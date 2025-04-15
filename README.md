@@ -1,1 +1,2 @@
 # student_performance
+this is a student performance bayesian modeling python project based on the kaggle data set file - https://www.kaggle.com/datasets/nikhil7280/student-performance-multiple-linear-regression the project was done in google colab to view the project check the "studen_performance.ipynb" file or just click here: https://github.com/ori112/student_performance/blob/main/student_performance.ipynb
